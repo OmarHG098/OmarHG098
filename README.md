@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar Hidalgo</h1>
 <h3 align="center">Passionate Full-Stack Developer from Mexico, thriving in the ever-evolving tech world</h3>
 
-- 🚀 I’m diving deep into **Node.js** and modern web development to build dynamic, user-focused solutions.
-- 💻 Currently mastering **React.js, Gatsby, and JavaScript** while crafting optimized, multilingual websites.
-- 🌟 Ask me about **React.js, JavaScript, Python, or Git workflows**—I love solving real-world challenges!
+- 🚀 I’m crafting dynamic, user-focused websites with **React.js, Gatsby, and JavaScript**.
+- 💻 Specializing in **optimized, multilingual web experiences** and **leveraging AI tools like Cursor AI** to enhance my development workflow.
 - 📫 Reach me at **omar_ehr@outlook.com**
 - ⚡ Fun fact: Transitioned from industrial automation to web development, and I’m hooked on learning new tech!
 
